@@ -1,1 +1,1 @@
-# catpuccin-userstyles
+# BlipBloup UserStyles
