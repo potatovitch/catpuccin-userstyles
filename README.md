@@ -1,3 +1,3 @@
 # BlipBloup UserStyles
 
-userstyle de stylus
+userstyle de stylus (firefox)
